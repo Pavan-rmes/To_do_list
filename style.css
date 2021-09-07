@@ -1,0 +1,11 @@
+.input_field{
+    margin: 10% 0 0 10%;
+}
+.to_do_list{
+    margin: 2% 0 0 10%
+}
+.to_do_list ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
